@@ -98,7 +98,7 @@ Before running the analysis, ensure you have the following prerequisites:
 The project directory is organized as follows:
 
 - `customer_segmentation_analysis.ipynb`: Jupyter Notebook containing the analysis code.
-- `Mall_Customers.csv`: download from [kaggle](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
+- `Mall_Customers.csv`: Download from [kaggle](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
 - `LICENSE`: MIT License file.
 - `README.md`: Project README file (this file).
 
